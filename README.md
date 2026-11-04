@@ -11,3 +11,4 @@ The Cloudwatch CPU alarm currently shows "insufficient data" because the EC2 ins
 ## CloudWatch and Monitoring Screenshot
 
 ![CloudWatch Alarm](Alarms%20and20%Monitoring.png)
+I explored an Amazon VPC with CIDR block 172.31.0.0 slash sixteen, identified seven subnets, and reviewed the main route table. The routes send internal traffic to local and outbound traffic to an internet gateway, showing how AWS handles local versus internet-bound traffic.
